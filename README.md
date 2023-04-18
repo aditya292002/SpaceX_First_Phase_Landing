@@ -10,7 +10,7 @@ To achieve this goal, we have gathered data on previous Falcon 9 launches and la
     <td><p><strong>Following is an example of successful Landing</strong></p></td>
   </tr>
   <tr>
-    <td><img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif" alt="Unsuccessful landing"></td>
+    <td><img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/17/37/1505395625-sep-14-2017-09-25-38.gif?crop=1xw:0.898876404494382xh;center,top&resize=640:*" alt="Unsuccessful landing"></td>
     <td><p><strong>Several examples of an unsuccessful landing are shown here</strong></p></td>
   </tr>
 </table>
