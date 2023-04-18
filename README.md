@@ -4,6 +4,18 @@ The goal of this project is to predict whether or not the first stage of SpaceX'
 
 To achieve this goal, we have gathered data on previous Falcon 9 launches and landing attempts, including various features such as launch date, launch site, and weather conditions. We have used this data to build and train several machine learning models, and have evaluated their performance using cross-validation techniques.
 
+<table>
+  <tr>
+    <td><img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif" alt="Successful landing"></td>
+    <td><p><strong>Following is an example of successful Landing</strong></p></td>
+  </tr>
+  <tr>
+    <td><img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif" alt="Unsuccessful landing"></td>
+    <td><p><strong>Several examples of an unsuccessful landing are shown here</strong></p></td>
+  </tr>
+</table>
+
+
 ### Data
 The data used in this project was obtained through a combination of web scraping and API calls. We used various sources, including SpaceX's official website and NASA's launch database, to gather information on Falcon 9 launches and landing attempts. The data includes both successful and unsuccessful landing attempts, and spans a period of several years.
 
