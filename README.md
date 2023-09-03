@@ -1,5 +1,8 @@
 # Predicting the Success of Falcon 9 Rocket Landing
 ### Overview
+
+Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against space X for a rocket launch.   In this lab, you will create a machine learning pipeline  to predict if the first stage will land given the data from the preceding labs.
+
 The goal of this project is to predict whether or not the first stage of SpaceX's Falcon 9 rocket will successfully land after launch. As a competitor to SpaceX, we want to be able to bid against them for rocket launches. Understanding the likelihood of success for each launch is a crucial factor in determining our bid price.
 
 To achieve this goal, we have collected data on previous Falcon 9 launches and landing attempts, including various features such as launch date, launch site, payloads, core, launchpad, and more. We have utilized this data to develop and train several machine learning models and have evaluated their performance.
